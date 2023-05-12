@@ -13,5 +13,5 @@ node game.js S          (my choice is Scissors)
 Attention! :
 you have to write your choise in Uppercase 
 example:
-node game.js r        if you want to select rock , you have to write R after game.js not r
+ "node game.js r"         if you want to select rock , you have to write R after game.js not r
 
